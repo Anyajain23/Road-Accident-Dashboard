@@ -72,10 +72,7 @@ The dataset was cleaned and analyzed using Excel before building the dashboard.
 <li>Road type influences accident frequency.</li>
 </ul>
 
-<h2>📷 Dashboard Preview</h2>
 
-
-<img src=""C:\Users\jaina\Pictures\Screenshots\Screenshot 2026-02-15 184808.png"" width="800">
 
 ---
 
